@@ -1,0 +1,11 @@
+@article{REPO295,
+    author = "Han, Kwangsoo and Kahng, Andrew B. and Li, Jiajia",
+    doi = "10.1109/TCAD.2018.2889756",
+    journal = "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    keywords = "Clocks;Topology;Tools;Clustering algorithms;Optimization;Robustness;Timing;Digital integrated circuit;dynamic programming;integer linear programming",
+    number = "2",
+    pages = "478-491",
+    title = "{Optimal Generalized H-Tree Topology and Buffering for High-Performance and Low-Power Clock Distribution}",
+    volume = "39",
+    year = "2020"
+}
